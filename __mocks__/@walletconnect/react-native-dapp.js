@@ -1,0 +1,1 @@
+export const useWalletConnect = jest.fn();
